@@ -38,13 +38,18 @@ This system allows you to **create, preview, and download student ID cards** ind
 
 ## 🖼️ Card Design Preview
 
-### 📌 Sample Layouts
-
-![Card 1](uploads/image1.png)
-![Card 2](uploads/image2.png)
-![Card 3](uploads/image3.png)
-![Card 4](uploads/image4.png)
-
----
+![Card 1](https://raw.githubusercontent.com/Amirsaifi786/Student_Id_Card-Management/main/uploads/image1.png)
+![Card 2](https://raw.githubusercontent.com/Amirsaifi786/Student_Id_Card-Management/main/uploads/image2.png)
+![Card 3](https://raw.githubusercontent.com/Amirsaifi786/Student_Id_Card-Management/main/uploads/image3.png)
+![Card 4](https://raw.githubusercontent.com/Amirsaifi786/Student_Id_Card-Management/main/uploads/image4.png)
 
 ## 📂 Project Structure
+
+Student_Id_Card-Management/
+│── README.md
+│── index.html
+│── uploads/
+│     ├── image1.png
+│     ├── image2.png
+│     ├── image3.png
+│     ├── image4.png
